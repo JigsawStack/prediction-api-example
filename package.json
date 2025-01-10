@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+      "jigsawstack": "^0.0.17",
+      "papaparse": "^5.4.1",
+      "pdf-parse": "^1.1.1"
+    }
+  }
