@@ -1,6 +1,6 @@
 # Predict the Future with JigsawStack's Prediction API
 
-This repository demonstrates how to use JigsawStack's Prediction API to generate future forecasts using JSON datasets or local CSV files. The examples show how simple it is to make predictions with minimal code.
+This repository demonstrates how to use JigsawStack's Prediction API to generate future forecasts using JSON datasets or local CSV files. Follow along with the guide [here](https://www.youtube.com/watch?v=gV5Z_FrWbFA).
 
 ## Features
 
